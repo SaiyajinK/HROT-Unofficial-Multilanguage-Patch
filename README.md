@@ -109,7 +109,7 @@
   <img width="700" height="1" src="https://via.placeholder.com/700x1/262626/262626">
 </p>
 
-<h3>👤 About</h3>
+<h3>👤 About :</h3>
 
 <p>
 HROT – Unofficial Multilanguage Patch is a free project designed to make HROT accessible to more players worldwide, without modifying the original game files.
@@ -119,7 +119,7 @@ HROT – Unofficial Multilanguage Patch is a free project designed to make HROT 
   <img width="700" height="1" src="https://via.placeholder.com/700x1/262626/262626">
 </p>
 
-<h3>⚠️ Disclaimer</h3>
+<h3>⚠️ Disclaimer :</h3>
 
 <p>
 This is an unofficial, free translation patch.<br>
